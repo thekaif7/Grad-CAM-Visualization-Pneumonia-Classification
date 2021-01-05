@@ -12,4 +12,6 @@ in captioning network) flowing into the final convolutional
 layer to produce a coarse localization map highlighting the
 important regions in the image for predicting the concept.
 
+![GradCam Image](https://github.com/thekaif7/Grad-CAM-Visualization-Pneumonia-Classification/blob/master/images/normal.PNG?raw=true "GradCam Visualization Normal")
 
+![GradCam Image](https://github.com/thekaif7/Grad-CAM-Visualization-Pneumonia-Classification/blob/master/images/pneumonia.PNG?raw=true "GradCam Visualization Pneumonia")
